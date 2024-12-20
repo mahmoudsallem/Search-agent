@@ -15,7 +15,6 @@ This repository contains a Dockerfile and necessary files to build a Docker imag
 Before you begin, ensure you have the following prerequisites:
 
 - Docker installed on your machine. You can download Docker from [here](https://www.docker.com/get-started).
-- A dataset file (e.g., CSV, JSON) containing the data you want to search.
 - A Streamlit application file (e.g., `main.py`) with the search agent logic implemented.
 - A `requirements.txt` file listing all the Python packages required by your application.
 
