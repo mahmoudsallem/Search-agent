@@ -1,5 +1,3 @@
-**README.md**
-
 # Searsh Agent - Streamlit Application
 
 This repository contains a Dockerfile and necessary files to build a Docker image for a Streamlit application. The application is designed to provide a search agent interface for a specific dataset.
